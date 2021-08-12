@@ -17,7 +17,9 @@ The code below can be used to create a Rancher cluster tempalte to be used for m
   <a href="http://phoenixnap.com/kb">Knowledge Base</a>
 </p>
 
-## This repo includes code that lets you:
+## Notes:
+
+This repo includes code that lets you: 
 
 1. Enable cluster_auth_endpont to extract the kubeconfig for this particular cluster instead of using Rancher kubeconfig to access all of them at once.
 2. Specify the Kubernetes version you would like to run. 
@@ -25,3 +27,17 @@ The code below can be used to create a Rancher cluster tempalte to be used for m
 4. Create Audit Log policie using a classic Kubernetes manifest file. 
 
 The full guide to deploying Kubernetes clusters on phoenixNAP's MPC using Rancher and Terraform is available on phoenixNAP's website <a href= "https://phoenixnap.com/wp-content/uploads/2021/08/2021-phoenixNAP-Rancher-Guide-by-Glimpse.pdf">here</a>. 
+
+  ### Contact phoenixNAP
+
+Get in touch with us if you have questions or need help with Managed Private Cloud or our other solutions.
+
+<p align="left">
+  <a href="https://twitter.com/phoenixNAP">Twitter</a> •
+  <a href="https://www.facebook.com/phoenixnap">Facebook</a> •
+  <a href="https://www.linkedin.com/company/phoenix-nap">LinkedIn</a> •
+  <a href="https://www.instagram.com/phoenixnap">Instagram</a> •
+  <a href="https://www.youtube.com/user/PhoenixNAPdatacenter">YouTube</a> •
+  <a href="https://developers.phoenixnap.com/support">Email</a> 
+</p>
+
