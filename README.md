@@ -3,12 +3,12 @@
   <a href="https://phoenixnap.com/private"><img src="https://user-images.githubusercontent.com/81640346/123400365-fa43ce80-d5a5-11eb-89c8-5a65a02a8cac.png" alt="phoenixnap Logo" width="300"></a>
 
   <br>
-Creating a Rancher Cluster Template
+Terraform Script for Integrating Rancher and vSphere
   <br>
 </h1>
 
 <p align="center">
-The code below can be used to create a Rancher cluster tempalte to be used for managing a Kubernetes cluster. 
+The code below can be used to create a Rancher cluster template for vSphere integration and k8s cluster management. 
 </p>
 
 <p align="center">
